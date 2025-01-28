@@ -27,23 +27,13 @@
                     class="hero-subtitle-gradient relative mb-4 font-medium text-sm inline-flex items-center gap-2 py-2 px-4.5 rounded-full">
                     <img src="images/icon-title.svg" alt="icon">
 
-                    <span class="hero-subtitle-text">
-                        Try our tool for Free
-                    </span>
+                    <span class="hero-subtitle-text">Powering Your Brand Digitally.</span>
                 </span>
-                <h2 class="text-white mb-4.5 text-2xl font-extrabold sm:text-4xl xl:text-heading-2">
-                    What are you waiting for?
-                </h2>
-                <p class="max-w-[714px] mx-auto font-medium mb-9">
-                    Our AI writing tool is designed to empower you with exceptional
-                    writing capabilities, making the writing process more efficient,
-                    accurate, and enjoyable.
-                </p>
+                <h2 class="text-white mb-4.5 text-2xl font-extrabold sm:text-4xl xl:text-heading-2">What are you waiting for?</h2>
+                <p class="max-w-[714px] mx-auto font-medium mb-9">We’re not waiting for success to come to us—we’re making it happen. Our innovative digital solutions are designed to elevate your brand, drive growth, and deliver results. Let’s turn your vision into reality, together.</p>
 
                 <a href="#"
-                    class="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80">
-                    Get Started for Free
-                </a>
+                    class="hero-button-gradient inline-flex rounded-lg py-3 px-7 text-white font-medium ease-in duration-300 hover:opacity-80">Get Started for Free</a>
             </div>
         </div>
     </div>

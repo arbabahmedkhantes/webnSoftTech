@@ -55,11 +55,7 @@
                 <h2 class="text-white mb-4.5 text-2xl font-extrabold sm:text-4xl xl:text-heading-2">
                     Contact With Us
                 </h2>
-                <p class="max-w-[714px] mx-auto font-medium">
-                    Our AI writing tool is designed to empower you with exceptional
-                    writing capabilities, making the writing process more efficient,
-                    accurate, and enjoyable.
-                </p>
+                <p class="max-w-[714px] mx-auto font-medium">Get in touch with our team today! Whether you have questions, need a quote, or want to discuss your next project, we're here to help. Reach out and let's make your digital vision a reality.</p>
             </div>
 
             <!-- support form -->

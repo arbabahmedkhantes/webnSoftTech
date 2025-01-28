@@ -136,62 +136,62 @@
                     </div>
                 </div>
 
-                <div class="dropdown ms-1 topbar-head-dropdown header-item">
+                <!-- <div class="dropdown ms-1 topbar-head-dropdown header-item">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <img id="header-lang-img" src="assets/images/flags/us.svg" alt="Header Language" height="20" class="rounded">
                     </button>
                     <div class="dropdown-menu dropdown-menu-end">
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language py-2" data-lang="en" title="English">
                             <img src="assets/images/flags/us.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">English</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="sp" title="Spanish">
                             <img src="assets/images/flags/spain.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">Española</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="gr" title="German">
                             <img src="assets/images/flags/germany.svg" alt="user-image" class="me-2 rounded" height="18"> <span class="align-middle">Deutsche</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="it" title="Italian">
                             <img src="assets/images/flags/italy.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">Italiana</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="ru" title="Russian">
                             <img src="assets/images/flags/russia.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">русский</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="ch" title="Chinese">
                             <img src="assets/images/flags/china.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">中国人</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="fr" title="French">
                             <img src="assets/images/flags/french.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">français</span>
                         </a>
 
-                        <!-- item-->
+                        
                         <a href="javascript:void(0);" class="dropdown-item notify-item language" data-lang="ar" title="Arabic">
                             <img src="assets/images/flags/ae.svg" alt="user-image" class="me-2 rounded" height="18">
                             <span class="align-middle">Arabic</span>
                         </a>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="dropdown topbar-head-dropdown ms-1 header-item">
+                <!-- <div class="dropdown topbar-head-dropdown ms-1 header-item">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <i class='bx bx-category-alt fs-22'></i>
                     </button>
@@ -252,9 +252,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="dropdown topbar-head-dropdown ms-1 header-item">
+                <!-- <div class="dropdown topbar-head-dropdown ms-1 header-item">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle" id="page-header-cart-dropdown" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">
                         <i class='bx bx-shopping-bag fs-22'></i>
                         <span class="position-absolute topbar-badge cartitem-badge fs-10 translate-middle badge rounded-pill bg-info">5</span>
@@ -399,19 +399,19 @@
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="ms-1 header-item d-none d-sm-flex">
+                <!-- <div class="ms-1 header-item d-none d-sm-flex">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle" data-toggle="fullscreen">
                         <i class='bx bx-fullscreen fs-22'></i>
                     </button>
-                </div>
+                </div> -->
 
-                <div class="ms-1 header-item d-none d-sm-flex">
+                <!-- <div class="ms-1 header-item d-none d-sm-flex">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle light-dark-mode">
                         <i class='bx bx-moon fs-22'></i>
                     </button>
-                </div>
+                </div> -->
 
                 <div class="dropdown topbar-head-dropdown ms-1 header-item" id="notificationDropdown">
                     <button type="button" class="btn btn-icon btn-topbar btn-ghost-secondary rounded-circle" id="page-header-notifications-dropdown" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-haspopup="true" aria-expanded="false">
@@ -688,7 +688,6 @@
                         </span>
                     </button>
                     <div class="dropdown-menu dropdown-menu-end">
-                        <!-- item-->
                         <h6 class="dropdown-header">Welcome Anna!</h6>
                         <a class="dropdown-item" href="pages-profile"><i class="mdi mdi-account-circle text-muted fs-16 align-middle me-1"></i> <span class="align-middle">Profile</span></a>
                         <a class="dropdown-item" href="apps-chat"><i class="mdi mdi-message-text-outline text-muted fs-16 align-middle me-1"></i> <span class="align-middle">Messages</span></a>

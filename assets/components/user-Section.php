@@ -13,11 +13,7 @@
             <h2 class="text-white mb-4.5 text-2xl font-extrabold sm:text-4xl xl:text-heading-2">
                 What Our User Says
             </h2>
-            <p class="max-w-[714px] mx-auto font-medium">
-                Our AI writing tool is designed to empower you with exceptional
-                writing capabilities, making the writing process more efficient,
-                accurate, and enjoyable.
-            </p>
+            <p class="max-w-[714px] mx-auto font-medium">Discover real feedback from our users. Read testimonials, reviews, and experiences to see how our service has made a positive impact on our community.</p>
         </div>
 
         <div @scroll.window="scrollContent = (scrollY > $el.offsetTop - 500) ? true : false"

@@ -47,11 +47,7 @@
             <h2 class="text-white mb-4.5 text-2xl font-extrabold sm:text-4xl xl:text-heading-2">
                 Our Pricing Plan
             </h2>
-            <p class="max-w-[714px] mx-auto font-medium">
-                Our AI writing tool is designed to empower you with exceptional
-                writing capabilities, making the writing process more efficient,
-                accurate, and enjoyable.
-            </p>
+            <p class="max-w-[714px] mx-auto font-medium">Explore our flexible pricing plans tailored to meet the unique needs of your business. Whether you're just starting out or looking for advanced solutions, we offer transparent, value-driven packages designed to help you succeed.</p>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-7.5">
